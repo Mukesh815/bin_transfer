@@ -1,5 +1,7 @@
 {
-	url: https://raw.githubusercontent.com/Mukesh815/bin_transfer/refs/heads/main/ESP-XXXX.bin
-	"crc" : ""
-	"size" : "1593312"
+	"url" : "https://raw.githubusercontent.com/Mukesh815/bin_transfer/refs/heads/main/ESP-XXXX.bin",
+	"crc" : "",
+	"size" : "1593312",
+	"firmwareType" : "ESP",
+	"version" : "0209"
 }
