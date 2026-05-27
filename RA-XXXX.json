@@ -1,6 +1,7 @@
 {
-	"url" : "https://github.com/Mukesh815/bin_transfer/raw/refs/heads/main/RA-010C.bin" ,
+	"url" : "https://ambare-fw.s3.us-east-2.amazonaws.com/RA-010C.bin" ,
 	"crc" : "9fcb",
 	"firmwareType" : "RA",
+	"size" : "131072",
 	"version" : "010C"
 }

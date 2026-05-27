@@ -1,7 +1,7 @@
 {
-	"url" : "https://raw.githubusercontent.com/Mukesh815/bin_transfer/refs/heads/main/ESP-XXXX.bin",
+	"url" : "https://ambare-fw.s3.us-east-2.amazonaws.com/ESP-020C.bin",
 	"crc" : "0b20",
-	"size" : "1593312",
+	"size" : "1636352",
 	"firmwareType" : "ESP",
-	"version" : "0207"
+	"version" : "020C"
 }
