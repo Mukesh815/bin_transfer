@@ -5,3 +5,10 @@
 	"firmwareType" : "ESP",
 	"version" : "020C"
 }
+{
+	"url" : "https://ambare-fw.s3.us-east-2.amazonaws.com/ESP-020C.bin",
+	"crc" : "0b20",
+	"size" : "1636352",
+	"firmwareType" : "ESP",
+	"version" : "020C"
+}
